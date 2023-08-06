@@ -1,0 +1,6 @@
+'{ name: Johnson, occupation: student }'
+'{ name: Davis, occupation: retiree }'
+'{ name: Michelle, occupation: student }'
+'{ name: Daniels, occupation: author }'
+'{ name: Michelle, occupation: manager }'
+'{ name: Kennedy, occupation: policeman }'
