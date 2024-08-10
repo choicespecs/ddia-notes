@@ -1,7 +1,7 @@
 #include <iostream>
 
 /*
- * BTreeNode Class: This class represens a node in the B-tree.
+ * BTreeNode Class: This class represents a node in the B-tree.
  * Each node has an array of keys (int *keys), an array of pointers to child nodes (BTreeNode **children)
  * the number of keys currently stored in the node (int t), anda  flag indicating whether the node is a leaf (bool leaf)
  */
